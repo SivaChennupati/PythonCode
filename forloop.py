@@ -1,3 +1,12 @@
+# Example 1: Looping through a list
+fruits = ["apple", "banana", "cherry"]
+for fruit in fruits:
+    print(fruit)
+
+# Example 2: Looping through a range of numbers
+for number in range(1, 6):
+    print(number)
+
 
 # Example 1: Simple while loop
 count = 0
